@@ -1,0 +1,15 @@
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+Werkzeug
+
+# Optional but recommended
+python-dotenv   # for environment variables
+email-validator  # if validating emails in forms
+bcrypt           # optional stronger hashing
+
+# For form validation (optional)
+Flask-WTF
+
+# For deployment (optional)
+gunicorn
